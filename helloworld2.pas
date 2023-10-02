@@ -14,7 +14,7 @@ begin
     
     while (diva[i] <> kata[i]) do
     begin
-        x := random(28);
+        x := random(length(repo);
         if(repo[x] = kata[i]) then
             begin
                 diva := diva + kata[i];
